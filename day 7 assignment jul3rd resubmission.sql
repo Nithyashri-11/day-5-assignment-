@@ -8,7 +8,7 @@ use std;
     Age INT,
     Marks int
     );
-    desc student
+    desc student;
 INSERT INTO Student VALUES(101, 'Nithya', 'CSE', 19, 85),
 (102, 'Rahul', 'ECE', 20, 72),
 (103, 'Priya', 'CSE', 18, 90),
